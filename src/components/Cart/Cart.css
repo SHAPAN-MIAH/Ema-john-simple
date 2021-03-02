@@ -1,0 +1,13 @@
+.cart-container button{
+    background-color: darkorange;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 250px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+.cart-container{
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+    
+}
